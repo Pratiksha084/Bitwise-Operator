@@ -1,4 +1,5 @@
 # Bitwise-Operator
+
 In C++, bitwise operators perform operations on integer data at the individual bit-level. These operations include testing, setting, or shifting the actual bits. For example,
 
 a & b; a | b;
